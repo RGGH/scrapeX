@@ -40,7 +40,7 @@ cargo run --release
 The application will:
 1. Automatically detect your Chrome/Chromium browser
 2. Launch a browser instance with appropriate settings for your OS
-3. Navigate to the AutoSport website
+3. Navigate to a chosen website (hardcoded at present)
 4. Extract the page title and main content
 5. Save the content to a text file in the `output` directory
 6. Take a screenshot and save it to the `output` directory
