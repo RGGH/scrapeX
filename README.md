@@ -1,4 +1,4 @@
-# AutoSport Web Scraper
+# ScrapeX Web Scraper
 
 A robust web scraping utility built with Rust that uses headless Chrome/Chromium to extract content from the AutoSport website.
 
@@ -48,8 +48,8 @@ The application will:
 ## Output
 
 All outputs are saved in the `output` directory with timestamp-based filenames:
-- Content: `output/bbc_content_[timestamp].txt`
-- Screenshots: `output/bbc_screenshot_[timestamp].png`
+- Content: `output/_content_[timestamp].txt`
+- Screenshots: `output/_screenshot_[timestamp].png`
 
 ## Technical Details
 
