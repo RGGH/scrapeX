@@ -1,10 +1,23 @@
+use clap::Parser;
+
 mod browser;
 mod find_chrome;
 mod scraper;
 mod utils;
 
+/// Simple scraper for a given domain or URL
+#[derive(Parser, Debug)]
+#[command(author, version, about)]
+struct Args {
+    /// The domain or full URL to scrape
+    #[arg(short, long)]
+    url: String,
+}
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let args = Args::parse();
+
     println!("Setting up browser...");
 
     // Initialize browser
@@ -14,7 +27,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let page = browser.new_page("about:blank").await?;
 
     // Scrape content
-    let content_result = scraper::scrape_website(&page, "https://www.motorsport.com").await;
+    let content_result = scraper::scrape_website(&page, &args.url).await;
 
     // Close browser regardless of whether scraping succeeded
     println!("Closing browser...");
@@ -51,3 +64,4 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("Scraping completed successfully");
     Ok(())
 }
+

@@ -1,0 +1,59 @@
+pull down to refresh
+
+Wasabi Wallet v2.6.0 released w/ SLIP39 multi share support
+wasabiwallet.io/
+8066 sats \ 100k boost \ 48 comments \ @kruw 5 May bitcoin top boost
+Non-Standard OP_RETURN transaction Data
+1590 sats \ 1 comment \ @jimmysong 4h bitcoin
+Steak n Shake Will Begin Accepting Bitcoin at all Locations on May 16th
+424 sats \ 7 comments \ @kepford 3h bitcoin
+The Bitcoin Mempool: Why We Have Filters
+bitcoinmagazine.com/technical/the-bitcoin-mempool-why-we-have-filters
+166 sats \ 0 comments \ @Coinsreporter 2h bitcoin
+btc++ Pool Bitcoin++ 2025 Mempool Hackathon Winners!
+pool.devpost.com/project-gallery
+1639 sats \ 2 comments \ @supratic 1h mempool
+BlueWallet v7.1.8 is out
+github.com/BlueWallet/BlueWallet/releases/tag/v7.1.8
+281 sats \ 0 comments \ @Gian 3h bitcoin
+UTXO set composition
+mainnet.observer/charts/utxoset-by-count/?s
+106 sats \ 0 comments \ @Coinsreporter 2h bitcoin
+If you had to create a reality show, what would be the premise?
+143 sats \ 13 comments \ @Aardvark 5h AskSN
+Stacker Saloon
+34 comments \ @saloon 10h
+Kazuo Ishiguro Reflects on Never Let Me Go, 20 Years Later
+lithub.com/kazuo-ishiguro-reflects-on-never-let-me-go-20-years-later/
+69 sats \ 0 comments \ @Car 16m BooksAndArticles
+I believe CoinOS will resolve itself, but this screenshot is a rug pull 💨
+362 sats \ 63 comments \ @realBitcoinDog 7h lightning
+Testing the Money Printing Hypothesis
+www.bitcoinandmarkets.com/testing-the-money-printing-hypothesis/
+65 sats \ 3 comments \ @RideandSmile 1h econ
+Are people too obsessed with perpetual growth?
+414 sats \ 11 comments \ @stack_harder 7h AskSN
+Into the Valueverse - AMA
+2074 sats \ 12 comments \ @newmusicnudgeunit 4h AMA
+Zeus Wallet
+10.8k sats \ 26 comments \ @afolabitobi20 9h Design
+The Tragic Tale of BIP30
+gist.github.com/RubenSomsen/a02b9071bf81b922dcc9edea7d810b7c
+184 sats \ 0 comments \ @RideandSmile 2h bitcoin
+Audible is expanding its AI-narrated audiobook library  | TechCrunch
+techcrunch.com/2025/05/13/audible-is-expanding-its-ai-narrated-audiobook-library/
+109 sats \ 3 comments \ @Car 2h tech
+💰 2M sats bounty for Cashu BTCPayServer Plugin
+159 sats \ 0 comments \ @supratic 1h bitdevs
+Back to Basics: Web Radio
+100 sats \ 0 comments \ @0f0d85d300 25m tech
+Street photography in a rainy day (venezuela)
+324 sats \ 2 comments \ @Malos10_ 5h Photography
+A Comprehensive OP_RETURN Limits Q&A Resource to Combat Misinformation
+30.2k sats \ 18 comments \ @tidwell 12 May bitcoin
+Hi, it's Anita Posch! After 5 months in southern Africa AMA about adoption & BTC
+39.5k sats \ 51 comments \ @anita 12 May AMA
+Bitcoin UK: 2024 UK Customer Report
+bitcoin.co.uk/research/uk-customer-report-2024
+326 sats \ 0 comments \ @south_korea_ln 6h bitcoin
+more

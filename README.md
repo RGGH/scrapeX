@@ -34,13 +34,16 @@ A robust web scraping utility built with Rust that uses headless Chrome/Chromium
 Run the application with:
 
 ```
-cargo run --release
+cargo run -- --url https://www.motorsport.com
+
 ```
+
+   wait 10-20 secs it will proceed by itself
 
 The application will:
 1. Automatically detect your Chrome/Chromium browser
 2. Launch a browser instance with appropriate settings for your OS
-3. Navigate to a chosen website (hardcoded at present)
+3. Navigate to the chosen website
 4. Extract the page title and main content
 5. Save the content to a text file in the `output` directory
 6. Take a screenshot and save it to the `output` directory
