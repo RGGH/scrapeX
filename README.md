@@ -1,6 +1,6 @@
 # ScrapeX Web Scraper
 
-A robust web scraping utility built with Rust that uses headless Chrome/Chromium to extract content from the AutoSport website.
+A robust web scraping utility built with Rust that uses headless Chrome/Chromium to extract content from any website.
 
 ## Features
 
